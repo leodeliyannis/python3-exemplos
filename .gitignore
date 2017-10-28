@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Typical competitive programming files
+in
+sol
+*.in
+*.sol
+my.sol
